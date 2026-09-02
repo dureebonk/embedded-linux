@@ -32,6 +32,7 @@ wsl --install -d ubuntu-24.04
 [Site](https://docs.espressif.com/projects/esp-idf/en/v6.0.2/esp32s3/api-guides/tools/idf-docker-image.html)
 * docker image
 ```bash
+docker pull espressif/idf:v6.0.2
 ```
 
 * usb connection
