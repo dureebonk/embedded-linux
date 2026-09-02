@@ -30,6 +30,12 @@ wsl --install -d ubuntu-24.04
 
 ## ESP32
 [Site](https://docs.espressif.com/projects/esp-idf/en/v6.0.2/esp32s3/api-guides/tools/idf-docker-image.html)
+* docker image
+```bash
+```
+
+* usb connection
+> https://learn.microsoft.com/ko-kr/windows/wsl/connect-usb
 
 ## micro ros
 [Site](https://github.com/micro-ROS/micro_ros_espidf_component/tree/jazzy)
