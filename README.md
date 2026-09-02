@@ -15,6 +15,12 @@ newgrp docker
 #또는 시스템 재로그인/재부팅
 ```
 * wsl
+* 
+```powershell
+wsl --update
+wsl --install -d ubuntu-24.04
+```
+
 * vscode
 
 ## prerequisite
